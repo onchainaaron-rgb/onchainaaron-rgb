@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="og-card.png" alt="Aaron Stalberg — AI tools, automation and AI search visibility" width="880">
+</p>
 ### Aaron Stalberg
 
 I build AI tools and AI-powered businesses. Based in the United Kingdom.
