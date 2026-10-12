@@ -45,6 +45,6 @@ All of it: [aaronstalberg.com/writing](https://aaronstalberg.com/writing.html)
 **Elsewhere**
 
 [Website](https://aaronstalberg.com) · [ShowUp Labs](https://www.showuplabs.com) ·
-[LinkedIn](https://www.linkedin.com/in/aarononchain/) · [X](https://x.com/aarononchain) ·
-[YouTube](https://www.youtube.com/@aarononchain) · [Instagram](https://www.instagram.com/aarononchain/) ·
-[TikTok](https://www.tiktok.com/@onchainaaron) · [Wikidata](https://www.wikidata.org/wiki/Q141501121)
+[LinkedIn](https://www.linkedin.com/in/aaronstalberg) · [X](https://x.com/aarononchain) ·
+[YouTube](https://www.youtube.com/@aaronstalberg1) · [Instagram](https://www.instagram.com/aaronstalberg/) ·
+[TikTok](https://www.tiktok.com/@aaronstalberg) · [Wikidata](https://www.wikidata.org/wiki/Q141501121)
