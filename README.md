@@ -3,6 +3,7 @@
 </p>
 ### Aaron Stalberg
 
+Head of Marketing at Centera Tech and Carrier OS Labs. Founder of ShowUp Labs and AutoCoreAgent.
 I build AI tools and AI-powered businesses. Based in the United Kingdom.
 
 Most of what I build sits at the point where AI systems decide what to show people — the answers
